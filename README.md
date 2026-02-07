@@ -8,7 +8,7 @@ WORK IN PROGRESS.<br>
 ## Specs
 - Z80 at 4MHz (LH0080A)
 - Power: ±5V, +12V
-- 16KB RAM, expandable to 48KB
+- 32KB RAM, expandable to 64KB
 - 2KB ROM (Initial Program Loader, IPL)
 - 2KB Character Generator ROM
 - 2KB Character RAM
