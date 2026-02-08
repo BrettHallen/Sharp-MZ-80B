@@ -18,6 +18,11 @@ WORK IN PROGRESS.<br>
 - MZ-80B Service Manual
 - MZ-80B User Guide
 
+## [ROMs](/ROMs)
+- 2KB Initial Program Loader (IPL)
+- 2KB Character Generator
+- BASIC for EPROM expansion board
+
 ## [32KB RAM Expansion](/Sharp_MZ-80B_RAM_III_IV_Expansion)
 Internal expansion board to increase the RAM from 16KB to 48KB.  This design is from the Service Manual and so currently uses 4116 RAM chips.<br>
 
