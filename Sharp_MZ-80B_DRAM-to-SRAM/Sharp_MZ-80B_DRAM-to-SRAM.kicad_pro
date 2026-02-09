@@ -414,8 +414,24 @@
       "Root"
     ],
     [
+      "2fa04a8b-900b-4da0-bb8e-85403efc09c8",
+      "Original CAS Logic"
+    ],
+    [
+      "075635aa-5b8d-4d5b-b3c5-0b4194fa16fd",
+      "Original Bank I DRAM"
+    ],
+    [
+      "cecf8384-100b-4418-a24c-39db4cb5581f",
+      "Original Bank II DRAM"
+    ],
+    [
       "db59a10c-4811-4c11-8d3d-c991721144fd",
-      "Original DRAM Design"
+      "Original Bank III DRAM (Expansion)"
+    ],
+    [
+      "f991025e-1793-4c9d-b43a-31f1a91a2fae",
+      "Original Bank IV DRAM (Expansion)"
     ]
   ],
   "text_variables": {}
