@@ -6,3 +6,5 @@ Sharp_MZ-80B_RAM_III_IV_Expansion/fp-info-cache
 /MZ-80EU/MZ-80EU-backups
 /Sharp_MZ-80B_DRAM-to-SRAM/Sharp_MZ-80B_DRAM-to-SRAM-backups
 /Sharp_MZ-80GMK2/Sharp_MZ-80GMK2-backups
+/Keyboard/Sharp_MZ-80B_Keyboard-backups
+*.lck
