@@ -16,10 +16,11 @@
 	(property "Value" "Futuba MD-4P"
 		(at 0 10 0)
 		(unlocked yes)
-		(layer "F.Fab")
+		(layer "B.SilkS")
 		(uuid "9d0df5f8-a03b-41aa-a843-aab545b6b1a5")
 		(effects
 			(font (size 1 1) (thickness 0.15))
+			(justify mirror)
 		)
 	)
 	(property "Datasheet" ""
