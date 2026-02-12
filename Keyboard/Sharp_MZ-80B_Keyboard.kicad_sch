@@ -1618,7 +1618,7 @@
 		)
 		(uuid "798a4f92-c20c-4c66-b978-12930d6434aa")
 	)
-	(text_box "Key Cap Sizes\nカナ　RVS: 1.0u with LED\nBREAK: 1.5u\nGRAPH: 1.5u with LED\nSFT LOCK: 1.75u with LED\nCR: 1.75u\nSHIFT: 2.25u (x2)\nENT: 2.0u\nSPACE: 6.25u (original is 8.0u)\nAll others are 1.0u\n\nMost key switches are Futuba MD-4P-CS type.\n\nIlluminated are Futuba MD-7 (?)\n\nCursor, cassette/CMT, Function keys are 12mm tactile with 7mm height."
+	(text_box "Key Cap Sizes\nカナ　RVS: 1.0u with LED\nBREAK: 1.5u\nGRAPH: 1.5u with LED\nSFT LOCK: 1.75u with LED\nCR: 1.75u\nSHIFT: 2.25u (x2)\nENT: 2.0u\nSPACE: 8.0u\nAll others are 1.0u\n\nMost key switches are Futuba MD-4P-CS type.\n\nIlluminated are Futuba MD-7 (?)\n\nCursor, cassette/CMT, Function keys are 12mm tactile with 7mm height."
 		(exclude_from_sim no)
 		(at 138.43 13.97 0)
 		(size 57.15 36.83)
@@ -7810,7 +7810,7 @@
 				)
 			)
 		)
-		(property "Value" "0"
+		(property "Value" "ZERO"
 			(at 29.21 95.25 0)
 			(effects
 				(font
