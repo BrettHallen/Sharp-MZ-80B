@@ -1,4 +1,5 @@
 # Sharp MZ-80B Keyboard
+The keyboard uses Futuba MD-4PCS key switches, as best as I can tell.<br>
 
 Key caps
 - 1.0u = 66
