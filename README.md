@@ -33,3 +33,8 @@ Expansion board that connects to the internal Expansion Port (MZ-80EU) that doub
 Idea to replace the 16 x 4116 DRAMs of the original 32KB RAM plus the additional 16 x 4116 DRAMs of the expansion RAM with two 62256 SRAMs.<br>
 
 WORK IN PROGRESS.<br>
+
+## [Keyboard](/Keyboard)
+Schematic and key layout.<br>
+
+![Sharp MZ-80B keyboard layout](/Keyboard/sharp-mz-80b-keyboard.jpg)
