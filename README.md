@@ -48,4 +48,4 @@ WORK IN PROGRESS.<br>
 ![Sharp MZ-80B keyboard layout](/Keyboard/sharp-mz-80b-keyboard.jpg)
 
 ## [SD Card Interface](https://github.com/yanataka60/MZ-2000_SD)
-Design (not mines!) to add SD card interface for the MZ-80B (and others).  It will work in an 80B with or without the Expansion Unit installed, which is neat.
+Design (not mine!) to add SD card interface for the MZ-80B (and others).  It will work in an 80B with or without the Expansion Unit installed, which is neat.
