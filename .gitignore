@@ -10,3 +10,5 @@ Sharp_MZ-80B_RAM_III_IV_Expansion/fp-info-cache
 *.lck
 *.numbers
 Keyboard/fp-info-cache
+/Sharp_MZ-80B_SD_Interface/MZ-80B_Extension_Board/MZ-80B_Extension_Board-backups
+Sharp_MZ-80B_SD_Interface/MZ-80B_Extension_Board/fp-info-cache
