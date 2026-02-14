@@ -1,0 +1,231 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "8ca4f8f2-2925-48ce-9d44-2cd7cb5f6493")
+	(paper "A3")
+	(title_block
+		(title "Sharp MZ-80B Schematics")
+		(date "14/FEB/2026")
+		(rev "A")
+		(company "Brett Hallen")
+		(comment 4 "Redrawn from Service Manual")
+	)
+	(lib_symbols)
+	(sheet
+		(at 81.28 17.78)
+		(size 38.1 29.21)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "337c8e49-ea3e-4a9c-84d6-3750e7b9aa23")
+		(property "Sheetname" "CPU Board Circuits (5)"
+			(at 81.28 17.0684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CPU_Board_5.kicad_sch"
+			(at 81.28 47.5746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Sharp_MZ-80B_Schematics"
+				(path "/8ca4f8f2-2925-48ce-9d44-2cd7cb5f6493"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 17.78 67.31)
+		(size 41.91 29.21)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "363797a5-51e1-47ec-b026-41beda79c6ec")
+		(property "Sheetname" "Cassette Tape Recorder Circuit"
+			(at 17.78 66.5984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CMT.kicad_sch"
+			(at 17.78 97.1046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Sharp_MZ-80B_Schematics"
+				(path "/8ca4f8f2-2925-48ce-9d44-2cd7cb5f6493"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 16.51 16.51)
+		(size 43.18 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5a780255-5ac8-4ffc-99be-ac6ce64d8384")
+		(property "Sheetname" "CPU Board Circuit (1)"
+			(at 16.51 15.7984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CPU_Board_1.kicad_sch"
+			(at 16.51 47.5746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Sharp_MZ-80B_Schematics"
+				(path "/8ca4f8f2-2925-48ce-9d44-2cd7cb5f6493"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 15.24 218.44)
+		(size 86.36 55.88)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "78535e79-36e8-41d2-b4c2-030594396f91")
+		(property "Sheetname" "Spare Gates"
+			(at 15.24 217.7284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Sharp_MZ-80B_Spare_Gates.kicad_sch"
+			(at 15.24 274.9046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Sharp_MZ-80B_Schematics"
+				(path "/8ca4f8f2-2925-48ce-9d44-2cd7cb5f6493"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 218.44 229.87)
+		(size 66.04 41.91)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9ba4eebe-9b40-4b09-bdd1-4d01395a4371")
+		(property "Sheetname" "Power"
+			(at 218.44 229.1584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Sharp_MZ-80B_Power.kicad_sch"
+			(at 218.44 272.3646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Sharp_MZ-80B_Schematics"
+				(path "/8ca4f8f2-2925-48ce-9d44-2cd7cb5f6493"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Sharp_MZ-80B")(type "KiCad")(uri "${KIPRJMOD}/Sharp_MZ-80B.kicad_sym")(options "")(descr ""))
+)
