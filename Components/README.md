@@ -52,6 +52,7 @@
 | Q1  | 2SC373G            | NPN transistor                                      |
 | Q2  | 2SC373G            | NPN transistor                                      |
 | Q3  | 2SC373G            | NPN transistor                                      |
+| D1  | 1S1555             | Diode                                               |
 | D2  | 1S1555             | Diode                                               |
 | RAM | Sharp LH4116-3     | 16k x 1-bit DRAM                                    |
 
