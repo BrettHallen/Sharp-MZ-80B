@@ -1,6 +1,6 @@
 | ID  | Part               |Notes                                                |
 |-----|--------------------|-----------------------------------------------------|
-| IC1 | 74LS               | Quad 2-input NAND                                   |
+| IC1 | 74LS00             | Quad 2-input NAND                                   |
 | IC2 | Sharp X0240PA      | Gate Array 14297                                    |
 | IC3 | Sharp LH0080A      | Z80 CPU                                             |
 | IC4 | 74LS42             | BCD to decimal                                      |
