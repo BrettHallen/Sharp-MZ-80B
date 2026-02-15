@@ -5,6 +5,8 @@ The MZ-80B is an evolution of the MZ-80K.<br>
 
 WORK IN PROGRESS.<br>
 
+NOTE! Any PCB designs are untested unless stated otherwise.  I have done my best to recreate them based on the schematics in the Service Manual.  (15/Feb/2026)<br>
+
 ## Videos
 - [Part 1: Initial look & disassembly](https://youtu.be/cHQdRs1u79s)
 - [Part 2: Keyboard refurbishment starts](https://youtu.be/vS2Di7rVlAI)
@@ -41,6 +43,11 @@ WORK IN PROGRESS.<br>
 
 ## [32KB RAM Expansion](/Sharp_MZ-80B_RAM_III_IV_Expansion)
 Internal expansion board to increase the RAM from 32KB to 64KB.  This design is from the Service Manual and so currently uses 4116 RAM chips.<br>
+
+## [Base 8KB Graphics RAM (MZ-80GM)](/Sharp_MZ-80GM)
+Reproduction of the base graphics RAM card in the Sharp MZ-80B based on the service manual schematics.  I've updated it by replacing the original four 2KB 2016 SRAM chips with a single 32KB 62256.  Overkill, yes, but the 62256 is still available new.<br>
+
+![Reproduction MZ-80GM card](/Sharp_MZ-80GM/Sharp_MZ-80GM_3D.png)
 
 ## [8KB Graphics RAM Expansion](/Sharp_MZ-80GMK)
 Expansion board that connects to the internal Expansion Port (MZ-80EU) that doubles the graphics video RAM from 8KB to 16KB.  This design is from the Service Manual but uses a 32KB 62256 as these are still available new, rather than an obsolete 8KB 6264 or four 2KB 2016.<br>
