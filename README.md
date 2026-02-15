@@ -45,24 +45,23 @@ NOTE! Any PCB designs are untested unless stated otherwise.  I have done my best
 Internal expansion board to increase the RAM from 32KB to 64KB.  This design is from the Service Manual and so currently uses 4116 RAM chips.<br>
 
 ## [Base 8KB Graphics RAM (MZ-80GM)](/Sharp_MZ-80GM)
-Reproduction of the base graphics RAM card in the Sharp MZ-80B based on the service manual schematics.  I've updated it by replacing the original four 2KB 2016 SRAM chips with a single 32KB 62256.  Overkill, yes, but the 62256 is still available new - it reduces the chip count by four.<br>
+Reproduction of the base graphics RAM card (a.k.a. "GRAPHYICS-1") in the Sharp MZ-80B based on the service manual schematics.  I've updated it by replacing the original four 2KB 2016 SRAM chips with a single 32KB 62256.  Overkill, yes, but the 62256 is still available new - it reduces the chip count by four.<br>
 
 ![Reproduction MZ-80GM card](/Sharp_MZ-80GM/Sharp_MZ-80GM_3D.png)
 
 ## [8KB Graphics RAM Expansion (MZ-80GMK)](/Sharp_MZ-80GMK)
-Expansion board that connects to the internal Expansion Port (MZ-80EU) that doubles the graphics video RAM from 8KB to 16KB.  This design is from the Service Manual but uses a 32KB 62256 as these are still available new, rather than an obsolete 8KB 6264 or four 2KB 2016.<br>
+Expansion board (a.k.a. "GRAPHYICS-2") that connects to the internal Expansion Port (MZ-80EU) that doubles the graphics video RAM from 8KB to 16KB.  This design is from the Service Manual but uses a 32KB 62256 as these are still available new, rather than an obsolete 8KB 6264 or four 2KB 2016.<br>
 
 ## [DRAM to SRAM](/Sharp_MZ-80B_DRAM-to-SRAM)
 Idea to replace the 16 x 4116 DRAMs of the original 32KB RAM plus the additional 16 x 4116 DRAMs of the expansion RAM with two 62256 SRAMs.<br>
 
-WORK IN PROGRESS.<br>
-
 ## [Keyboard](/Keyboard)
 Schematic and replacement PCB design.<br>
-
-WORK IN PROGRESS.<br>
 
 ![Sharp MZ-80B keyboard layout](/Keyboard/sharp-mz-80b-keyboard.jpg)
 
 ## [SD Card Interface](https://github.com/yanataka60/MZ-2000_SD)
 Design (not mine!) to add SD card interface for the MZ-80B (and others).  It will work in an 80B with or without the Expansion Unit installed, which is neat.
+
+## [Combo Graphics RAM + SD Interface](/Sharp_MZ-80GMSD)
+As my MZ-80B doesn't have an expansion unit I thought about trying to add the 8KB Graphics RAM expansion (MZ-80GMK) aka "GRAPHYCS-2" on the same board as the SD interface above.  The SD board itself is still external, but the connection to the MZ-80B motherboard is included with the graphics RAM expansion.
