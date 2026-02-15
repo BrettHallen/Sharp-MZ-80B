@@ -52,3 +52,7 @@
 | Q1  | 2SC373G            | NPN transistor                                      |
 | Q2  | 2SC373G            | NPN transistor                                      |
 | Q3  | 2SC373G            | NPN transistor                                      |
+
+- 74xxx: standard TTL
+- 74Sxxx: Schottky, high speed, high power
+- 74LSxxx: Low power Schottky
