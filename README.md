@@ -18,13 +18,13 @@ WORK IN PROGRESS.<br>
 - 2KB Character RAM
 - 8KB Graphics RAM, expandable to 16KB (MZ-80GMK)
 
-## Main ICs
+## [Components](/Components)
 - IC2: Sharp X0240PA (Gate Array 14297)
 - IC3: Sharp LH0080A (Z80 CPU)
 - IC8: Sharp IX0285PA (IPL Boot ROM, 334-5700)
 - IC19: 8253 PIT (Progammable Interval Timer)
+- IC23: NEC D8255AC-5 PPI (Programmable Peripheral Interface)
 - IC24: Sharp LH0081A (Z80 PIO)
-- IC25: NEC D8255AC-5 PPI (Programmable Peripheral Interface)
 - IC41: Toshiba TMM2016P-1 (2KB S-RAM)
 - IC42: Sharp X0241PA (Gate Array 14298)
 - IC43: Sharp X0242PA (Gate Array 14299)
