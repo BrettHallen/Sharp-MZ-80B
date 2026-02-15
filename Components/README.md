@@ -1,3 +1,6 @@
+# Sharp MZ-80B Component List
+
+## ICs
 | ID  | Part               |Notes                                                |
 |-----|--------------------|-----------------------------------------------------|
 | IC1 | 74LS00             | Quad 2-input NAND                                   |
