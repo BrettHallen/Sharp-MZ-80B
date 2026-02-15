@@ -1,0 +1,39 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+150.098,-119.2725,90.0,top,C1,,,C_Disc_D3.8mm_W2.6mm_P2.50mm,100nF,tht
+53.578,-118.0025,0.0,top,C10,,,C_Disc_D3.8mm_W2.6mm_P2.50mm,100nF,tht
+53.618,-102.7625,0.0,top,C11,,,C_Disc_D3.8mm_W2.6mm_P2.50mm,100nF,tht
+53.618,-88.7925,0.0,top,C12,,,C_Disc_D3.8mm_W2.6mm_P2.50mm,100nF,tht
+53.618,-73.5525,0.0,top,C13,,,C_Disc_D3.8mm_W2.6mm_P2.50mm,100nF,tht
+73.898,-60.8525,0.0,top,C14,,,C_Disc_D3.8mm_W2.6mm_P2.50mm,100nF,tht
+73.938,-53.2325,0.0,top,C15,,,C_Disc_D3.8mm_W2.6mm_P2.50mm,220pF,tht
+124.698,-102.7575,180.0,top,C5,,,C_Disc_D3.8mm_W2.6mm_P2.50mm,100nF,tht
+124.698,-88.7875,180.0,top,C6,,,C_Disc_D3.8mm_W2.6mm_P2.50mm,100nF,tht
+111.998,-73.5525,0.0,top,C7,,,C_Disc_D3.8mm_W2.6mm_P2.50mm,470pF,tht
+124.658,-73.5475,180.0,top,C8,,,C_Disc_D3.8mm_W2.6mm_P2.50mm,100nF,tht
+62.468,-131.9725,-90.0,top,C9,,,CP_Radial_D5.0mm_P2.50mm,100µF,tht
+133.588,-131.9725,-90.0,top,CN1,,,PinHeader_2x20_P2.54mm_Vertical,To CPU Board,tht
+80.248,-131.9725,-90.0,top,CN2,,,PinHeader_2x05_P2.54mm_Vertical,To CPU Board,tht
+132.318,-58.3125,90.0,top,CN3,,,PinHeader_2x05_P2.54mm_Horizontal,To MZ-80GMK,tht
+155.178,-130.7025,90.0,top,IC1,,,DIP-28_W15.24mm,62256,tht
+129.778,-106.5675,90.0,top,IC10,,,DIP-14_W7.62mm,74LS93,tht
+129.778,-92.5975,90.0,top,IC11,,,DIP-14_W7.62mm,74LS93,tht
+129.778,-77.3575,90.0,top,IC12,,,DIP-14_W7.62mm,74LS93,tht
+92.948,-121.8125,90.0,top,IC13,,,DIP-20_W7.62mm,74LS245,tht
+92.948,-106.5725,90.0,top,IC14,,,DIP-16_W7.62mm,74LS165,tht
+92.948,-92.6025,90.0,top,IC15,,,DIP-16_W7.62mm,74LS175,tht
+92.948,-77.3625,90.0,top,IC16,,,DIP-14_W7.62mm,74LS04,tht
+92.948,-63.3925,90.0,top,IC17,,,DIP-14_W7.62mm,74LS107,tht
+59.928,-121.8125,90.0,top,IC18,,,DIP-14_W7.62mm,74LS32,tht
+59.928,-106.5725,90.0,top,IC19,,,DIP-14_W7.62mm,74LS08,tht
+59.928,-92.6025,90.0,top,IC20,,,DIP-14_W7.62mm,74LS32,tht
+59.928,-77.3625,90.0,top,IC21,,,DIP-14_W7.62mm,74LS00,tht
+170.418,-105.3025,90.0,top,IC5,,,DIP-16_W7.62mm,74LS157,tht
+170.418,-91.3325,90.0,top,IC6,,,DIP-16_W7.62mm,74LS157,tht
+170.418,-77.3625,90.0,top,IC7,,,DIP-16_W7.62mm,74LS157,tht
+170.418,-63.3925,90.0,top,IC8,,,DIP-16_W7.62mm,74LS157,tht
+62.468,-60.9725,90.0,top,R1,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,1KΩ,tht
+66.278,-60.8525,90.0,top,R2,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,1KΩ,tht
+70.088,-60.8525,90.0,top,R3,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,1KΩ,tht
+124.698,-55.7725,-90.0,top,R4,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,1KΩ,tht
+80.248,-60.8525,90.0,top,R5,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,47Ω,tht
+98.028,-81.1725,0.0,top,R6,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,100Ω,tht
