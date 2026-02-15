@@ -418,12 +418,8 @@
       "CPU Board Circuit (1)"
     ],
     [
-      "78535e79-36e8-41d2-b4c2-030594396f91",
-      "Spare Gates"
-    ],
-    [
-      "9ba4eebe-9b40-4b09-bdd1-4d01395a4371",
-      "Power"
+      "b0798a4c-f0b3-496b-9ba4-af097d658299",
+      "CPU Board Circuit (2)"
     ],
     [
       "337c8e49-ea3e-4a9c-84d6-3750e7b9aa23",
@@ -432,6 +428,14 @@
     [
       "363797a5-51e1-47ec-b026-41beda79c6ec",
       "Cassette Tape Recorder Circuit"
+    ],
+    [
+      "9ba4eebe-9b40-4b09-bdd1-4d01395a4371",
+      "Power"
+    ],
+    [
+      "78535e79-36e8-41d2-b4c2-030594396f91",
+      "Spare Gates"
     ]
   ],
   "text_variables": {}

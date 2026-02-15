@@ -12,8 +12,18 @@
 		(comment 4 "Redrawn from Service Manual")
 	)
 	(lib_symbols)
+	(text "WORK IN PROGRESS\n(15/FEB/2026)"
+		(exclude_from_sim no)
+		(at 183.134 138.684 0)
+		(effects
+			(font
+				(size 10 10)
+			)
+		)
+		(uuid "b9aa2baf-26b0-4edf-80ac-80b5fcb83222")
+	)
 	(sheet
-		(at 81.28 17.78)
+		(at 146.05 17.78)
 		(size 38.1 29.21)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -29,7 +39,7 @@
 		)
 		(uuid "337c8e49-ea3e-4a9c-84d6-3750e7b9aa23")
 		(property "Sheetname" "CPU Board Circuits (5)"
-			(at 81.28 17.0684 0)
+			(at 146.05 17.0684 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38,7 +48,7 @@
 			)
 		)
 		(property "Sheetfile" "CPU_Board_5.kicad_sch"
-			(at 81.28 47.5746 0)
+			(at 146.05 47.5746 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49,7 +59,7 @@
 		(instances
 			(project "Sharp_MZ-80B_Schematics"
 				(path "/8ca4f8f2-2925-48ce-9d44-2cd7cb5f6493"
-					(page "5")
+					(page "6")
 				)
 			)
 		)
@@ -91,7 +101,7 @@
 		(instances
 			(project "Sharp_MZ-80B_Schematics"
 				(path "/8ca4f8f2-2925-48ce-9d44-2cd7cb5f6493"
-					(page "6")
+					(page "7")
 				)
 			)
 		)
@@ -175,7 +185,7 @@
 		(instances
 			(project "Sharp_MZ-80B_Schematics"
 				(path "/8ca4f8f2-2925-48ce-9d44-2cd7cb5f6493"
-					(page "3")
+					(page "10")
 				)
 			)
 		)
@@ -217,7 +227,49 @@
 		(instances
 			(project "Sharp_MZ-80B_Schematics"
 				(path "/8ca4f8f2-2925-48ce-9d44-2cd7cb5f6493"
-					(page "4")
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 64.77 16.51)
+		(size 45.72 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b0798a4c-f0b3-496b-9ba4-af097d658299")
+		(property "Sheetname" "CPU Board Circuit (2)"
+			(at 64.77 15.7984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CPU_Board_2.kicad_sch"
+			(at 64.77 47.5746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Sharp_MZ-80B_Schematics"
+				(path "/8ca4f8f2-2925-48ce-9d44-2cd7cb5f6493"
+					(page "3")
 				)
 			)
 		)
