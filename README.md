@@ -45,14 +45,12 @@ NOTE! Any PCB designs are untested unless stated otherwise.  I have done my best
 Internal expansion board to increase the RAM from 32KB to 64KB.  This design is from the Service Manual and so currently uses 4116 RAM chips.<br>
 
 ## [Base 8KB Graphics RAM (MZ-80GM)](/Sharp_MZ-80GM)
-Reproduction of the base graphics RAM card in the Sharp MZ-80B based on the service manual schematics.  I've updated it by replacing the original four 2KB 2016 SRAM chips with a single 32KB 62256.  Overkill, yes, but the 62256 is still available new.<br>
+Reproduction of the base graphics RAM card in the Sharp MZ-80B based on the service manual schematics.  I've updated it by replacing the original four 2KB 2016 SRAM chips with a single 32KB 62256.  Overkill, yes, but the 62256 is still available new - it reduces the chip count by four.<br>
 
 ![Reproduction MZ-80GM card](/Sharp_MZ-80GM/Sharp_MZ-80GM_3D.png)
 
-## [8KB Graphics RAM Expansion](/Sharp_MZ-80GMK)
+## [8KB Graphics RAM Expansion (MZ-80GMK)](/Sharp_MZ-80GMK)
 Expansion board that connects to the internal Expansion Port (MZ-80EU) that doubles the graphics video RAM from 8KB to 16KB.  This design is from the Service Manual but uses a 32KB 62256 as these are still available new, rather than an obsolete 8KB 6264 or four 2KB 2016.<br>
-
-WORK IN PROGRESS.<br>
 
 ## [DRAM to SRAM](/Sharp_MZ-80B_DRAM-to-SRAM)
 Idea to replace the 16 x 4116 DRAMs of the original 32KB RAM plus the additional 16 x 4116 DRAMs of the expansion RAM with two 62256 SRAMs.<br>
