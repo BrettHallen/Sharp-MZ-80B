@@ -22,7 +22,7 @@
 | IC20| 74LS32             | Quad 2-input OR                                     |
 | IC21| 74121              | Monostable multivibrator (one-shot pulse generator) |
 | IC22| 74LS245            | Bus transceiver                                     |
-| IC23| NEC D8255AC-5 PPI  | Programmable Peripheral Interface                   |
+| IC23| NEC D8255AC-5      | Programmable Peripheral Interface (PPI)             |
 | IC24| Sharp LH0081A      | Z80 PIO                                             |
 | IC25| 74154              | 4-to-16 decoder                                     |
 | IC26| 74LS14             | Hex Schmitt trigger                                 |
@@ -40,7 +40,7 @@
 | IC38| 74LS157            | Quad 2-input multiplexer                            |
 | IC39| 74LS157            | Quad 2-input multiplexer                            |
 | IC40| 74LS04             | Hex inverter                                        |
-| IC41| Toshiba            | TMM2016P-1  2KB S-RAM                               |
+| IC41| Toshiba TMM2016P-1 | 2KB S-RAM                                           |
 | IC42| Sharp X0241PA      | Gate Array 14298                                    |
 | IC43| Sharp X0242PA      | Gate Array 14299                                    |
 | IC44| Sharp IX0286PA     | CG-ROM (2716), 334P-5701                            |
