@@ -13369,7 +13369,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "020640b9-d871-4aec-ae6d-714f4fa34c5e")
@@ -13748,7 +13748,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "095c2121-f9be-4f92-949f-8086ec9708c5")
-		(property "Reference" "U2"
+		(property "Reference" "U15"
 			(at 59.436 166.37 0)
 			(effects
 				(font
@@ -13836,7 +13836,7 @@
 		(instances
 			(project "MZ-80B_Extension_Board"
 				(path "/6d6f1a70-a002-4773-a01e-dba5b34c4e8a"
-					(reference "U2")
+					(reference "U15")
 					(unit 3)
 				)
 			)
@@ -13852,7 +13852,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1480f66d-dc7f-4554-85d2-27ce529b77c8")
-		(property "Reference" "U7"
+		(property "Reference" "U2"
 			(at 89.7733 27.94 0)
 			(effects
 				(font
@@ -13948,7 +13948,7 @@
 		(instances
 			(project "MZ-80B_Extension_Board"
 				(path "/6d6f1a70-a002-4773-a01e-dba5b34c4e8a"
-					(reference "U7")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -13964,7 +13964,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "18620783-22ce-4545-bd9f-110ac6b4f79d")
-		(property "Reference" "U10"
+		(property "Reference" "U8"
 			(at 238.3633 25.4 0)
 			(effects
 				(font
@@ -14096,7 +14096,7 @@
 		(instances
 			(project "MZ-80B_Extension_Board"
 				(path "/6d6f1a70-a002-4773-a01e-dba5b34c4e8a"
-					(reference "U10")
+					(reference "U8")
 					(unit 1)
 				)
 			)
@@ -14108,7 +14108,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1b4ba7a1-fedc-491f-b893-1b5377a8a54e")
@@ -14314,7 +14314,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3055d9cf-315a-42bc-b421-1916c5226501")
-		(property "Reference" "U2"
+		(property "Reference" "U15"
 			(at 34.29 179.07 0)
 			(effects
 				(font
@@ -14402,7 +14402,7 @@
 		(instances
 			(project "MZ-80B_Extension_Board"
 				(path "/6d6f1a70-a002-4773-a01e-dba5b34c4e8a"
-					(reference "U2")
+					(reference "U15")
 					(unit 2)
 				)
 			)
@@ -14550,7 +14550,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "39cc2a50-87fe-4742-b92a-2c60744c7b80")
-		(property "Reference" "U2"
+		(property "Reference" "U15"
 			(at 143.51 186.69 0)
 			(effects
 				(font
@@ -14638,7 +14638,7 @@
 		(instances
 			(project "MZ-80B_Extension_Board"
 				(path "/6d6f1a70-a002-4773-a01e-dba5b34c4e8a"
-					(reference "U2")
+					(reference "U15")
 					(unit 4)
 				)
 			)
@@ -14654,7 +14654,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3ad32cae-aa76-443d-9d60-ded78da949ae")
-		(property "Reference" "C18"
+		(property "Reference" "C19"
 			(at 109.22 215.8999 0)
 			(effects
 				(font
@@ -14708,7 +14708,7 @@
 		(instances
 			(project "MZ-80B_Extension_Board"
 				(path "/6d6f1a70-a002-4773-a01e-dba5b34c4e8a"
-					(reference "C18")
+					(reference "C19")
 					(unit 1)
 				)
 			)
@@ -14794,7 +14794,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3c70f544-1d3b-4537-a3d0-941c2098cdd9")
-		(property "Reference" "U4"
+		(property "Reference" "U14"
 			(at 114.3 166.37 0)
 			(effects
 				(font
@@ -14882,7 +14882,7 @@
 		(instances
 			(project "MZ-80B_Extension_Board"
 				(path "/6d6f1a70-a002-4773-a01e-dba5b34c4e8a"
-					(reference "U4")
+					(reference "U14")
 					(unit 3)
 				)
 			)
@@ -14898,7 +14898,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3fc72b42-9674-455b-8700-fbbf822890b8")
-		(property "Reference" "U5"
+		(property "Reference" "U13"
 			(at 389.89 26.6699 0)
 			(effects
 				(font
@@ -14988,7 +14988,7 @@
 		(instances
 			(project "MZ-80B_Extension_Board"
 				(path "/6d6f1a70-a002-4773-a01e-dba5b34c4e8a"
-					(reference "U5")
+					(reference "U13")
 					(unit 5)
 				)
 			)
@@ -15004,7 +15004,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "41141e8c-5442-4e6a-b814-ef9400a988c9")
-		(property "Reference" "U11"
+		(property "Reference" "U4"
 			(at 41.5133 93.98 0)
 			(effects
 				(font
@@ -15112,7 +15112,7 @@
 		(instances
 			(project "MZ-80B_Extension_Board"
 				(path "/6d6f1a70-a002-4773-a01e-dba5b34c4e8a"
-					(reference "U11")
+					(reference "U4")
 					(unit 1)
 				)
 			)
@@ -15194,7 +15194,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "465f9988-1320-4706-85ae-3d19d5e9c6a5")
-		(property "Reference" "C12"
+		(property "Reference" "C14"
 			(at 340.36 76.1999 0)
 			(effects
 				(font
@@ -15248,7 +15248,7 @@
 		(instances
 			(project "MZ-80B_Extension_Board"
 				(path "/6d6f1a70-a002-4773-a01e-dba5b34c4e8a"
-					(reference "C12")
+					(reference "C14")
 					(unit 1)
 				)
 			)
@@ -15264,7 +15264,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "466a402f-0d46-4a96-8739-263eb3c96a11")
-		(property "Reference" "U15"
+		(property "Reference" "U10"
 			(at 130.4133 234.95 0)
 			(effects
 				(font
@@ -15342,7 +15342,7 @@
 		(instances
 			(project "MZ-80B_Extension_Board"
 				(path "/6d6f1a70-a002-4773-a01e-dba5b34c4e8a"
-					(reference "U15")
+					(reference "U10")
 					(unit 1)
 				)
 			)
@@ -15556,7 +15556,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "516d26e6-6c32-4a74-b5e2-32c022056001")
-		(property "Reference" "U1"
+		(property "Reference" "U18"
 			(at 383.54 229.87 0)
 			(effects
 				(font
@@ -15644,7 +15644,7 @@
 		(instances
 			(project "MZ-80B_Extension_Board"
 				(path "/6d6f1a70-a002-4773-a01e-dba5b34c4e8a"
-					(reference "U1")
+					(reference "U18")
 					(unit 4)
 				)
 			)
@@ -15724,7 +15724,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "51cb564a-0fbb-4b02-9858-2cce001065ef")
-		(property "Reference" "U4"
+		(property "Reference" "U14"
 			(at 383.54 187.96 0)
 			(effects
 				(font
@@ -15812,7 +15812,7 @@
 		(instances
 			(project "MZ-80B_Extension_Board"
 				(path "/6d6f1a70-a002-4773-a01e-dba5b34c4e8a"
-					(reference "U4")
+					(reference "U14")
 					(unit 4)
 				)
 			)
@@ -16159,11 +16159,11 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "646664b7-dc72-4b70-a877-7203dc38d692")
-		(property "Reference" "C14"
+		(property "Reference" "C13"
 			(at 365.76 76.1999 0)
 			(effects
 				(font
@@ -16217,7 +16217,7 @@
 		(instances
 			(project "MZ-80B_Extension_Board"
 				(path "/6d6f1a70-a002-4773-a01e-dba5b34c4e8a"
-					(reference "C14")
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -16303,7 +16303,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6f871566-cb20-4ab0-a02c-18e303969d1b")
-		(property "Reference" "U13"
+		(property "Reference" "U5"
 			(at 56.7533 234.95 0)
 			(effects
 				(font
@@ -16381,7 +16381,7 @@
 		(instances
 			(project "MZ-80B_Extension_Board"
 				(path "/6d6f1a70-a002-4773-a01e-dba5b34c4e8a"
-					(reference "U13")
+					(reference "U5")
 					(unit 1)
 				)
 			)
@@ -16397,7 +16397,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "72fd6c83-89d8-42a1-af77-a6c0ff480956")
-		(property "Reference" "U5"
+		(property "Reference" "U13"
 			(at 30.48 236.728 0)
 			(effects
 				(font
@@ -16485,7 +16485,7 @@
 		(instances
 			(project "MZ-80B_Extension_Board"
 				(path "/6d6f1a70-a002-4773-a01e-dba5b34c4e8a"
-					(reference "U5")
+					(reference "U13")
 					(unit 3)
 				)
 			)
@@ -16567,7 +16567,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "78b9a00c-c31a-41f8-bf53-e5e03c6efa38")
-		(property "Reference" "U1"
+		(property "Reference" "U18"
 			(at 383.54 201.93 0)
 			(effects
 				(font
@@ -16655,7 +16655,7 @@
 		(instances
 			(project "MZ-80B_Extension_Board"
 				(path "/6d6f1a70-a002-4773-a01e-dba5b34c4e8a"
-					(reference "U1")
+					(reference "U18")
 					(unit 1)
 				)
 			)
@@ -16671,7 +16671,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7a1e16f3-0279-4531-93ea-f9ef2defaae5")
-		(property "Reference" "U1"
+		(property "Reference" "U18"
 			(at 383.54 215.9 0)
 			(effects
 				(font
@@ -16759,7 +16759,7 @@
 		(instances
 			(project "MZ-80B_Extension_Board"
 				(path "/6d6f1a70-a002-4773-a01e-dba5b34c4e8a"
-					(reference "U1")
+					(reference "U18")
 					(unit 3)
 				)
 			)
@@ -16774,7 +16774,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7b27f05e-65c3-41f1-9f29-7a26bb0513ba")
-		(property "Reference" "R4"
+		(property "Reference" "R2"
 			(at 153.67 236.2199 0)
 			(effects
 				(font
@@ -16828,7 +16828,7 @@
 		(instances
 			(project "MZ-80B_Extension_Board"
 				(path "/6d6f1a70-a002-4773-a01e-dba5b34c4e8a"
-					(reference "R4")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -16844,7 +16844,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7eda9ef4-6fb5-4258-b528-b1089539cb3f")
-		(property "Reference" "U12"
+		(property "Reference" "U7"
 			(at 88.5033 91.44 0)
 			(effects
 				(font
@@ -16940,7 +16940,7 @@
 		(instances
 			(project "MZ-80B_Extension_Board"
 				(path "/6d6f1a70-a002-4773-a01e-dba5b34c4e8a"
-					(reference "U12")
+					(reference "U7")
 					(unit 1)
 				)
 			)
@@ -17086,7 +17086,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "824e0721-2462-49ef-b15c-a5c4bf077a9f")
-		(property "Reference" "U2"
+		(property "Reference" "U15"
 			(at 330.2 26.6699 0)
 			(effects
 				(font
@@ -17176,7 +17176,7 @@
 		(instances
 			(project "MZ-80B_Extension_Board"
 				(path "/6d6f1a70-a002-4773-a01e-dba5b34c4e8a"
-					(reference "U2")
+					(reference "U15")
 					(unit 5)
 				)
 			)
@@ -17322,7 +17322,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8f0ef79d-5749-4fa1-a1ef-226e1cf17a0d")
-		(property "Reference" "U8"
+		(property "Reference" "U3"
 			(at 138.0333 27.94 0)
 			(effects
 				(font
@@ -17418,7 +17418,7 @@
 		(instances
 			(project "MZ-80B_Extension_Board"
 				(path "/6d6f1a70-a002-4773-a01e-dba5b34c4e8a"
-					(reference "U8")
+					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -17762,7 +17762,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "992fcfdf-465b-46a4-b0c2-d8f1d2e377e8")
-		(property "Reference" "C13"
+		(property "Reference" "C18"
 			(at 353.06 76.1999 0)
 			(effects
 				(font
@@ -17816,7 +17816,7 @@
 		(instances
 			(project "MZ-80B_Extension_Board"
 				(path "/6d6f1a70-a002-4773-a01e-dba5b34c4e8a"
-					(reference "C13")
+					(reference "C18")
 					(unit 1)
 				)
 			)
@@ -17898,7 +17898,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9b5c4e9b-8e77-4211-b4f4-a5635f034f85")
-		(property "Reference" "U4"
+		(property "Reference" "U14"
 			(at 83.82 204.47 0)
 			(effects
 				(font
@@ -17986,7 +17986,7 @@
 		(instances
 			(project "MZ-80B_Extension_Board"
 				(path "/6d6f1a70-a002-4773-a01e-dba5b34c4e8a"
-					(reference "U4")
+					(reference "U14")
 					(unit 1)
 				)
 			)
@@ -18068,7 +18068,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a2c4b600-0ed4-4b3a-871d-bdef0e4ad235")
-		(property "Reference" "U3"
+		(property "Reference" "U11"
 			(at 172.72 121.92 0)
 			(effects
 				(font
@@ -18156,7 +18156,7 @@
 		(instances
 			(project "MZ-80B_Extension_Board"
 				(path "/6d6f1a70-a002-4773-a01e-dba5b34c4e8a"
-					(reference "U3")
+					(reference "U11")
 					(unit 1)
 				)
 			)
@@ -18168,7 +18168,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a4e870e9-04cb-4824-a093-eac453b9dc27")
@@ -18242,7 +18242,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a662d7bf-2fe6-4d68-b41b-20f6f788b95d")
-		(property "Reference" "U3"
+		(property "Reference" "U11"
 			(at 162.56 240.03 0)
 			(effects
 				(font
@@ -18330,7 +18330,7 @@
 		(instances
 			(project "MZ-80B_Extension_Board"
 				(path "/6d6f1a70-a002-4773-a01e-dba5b34c4e8a"
-					(reference "U3")
+					(reference "U11")
 					(unit 2)
 				)
 			)
@@ -18482,7 +18482,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a81aceee-a310-40d6-93f4-4f66edb801ee")
-		(property "Reference" "C16"
+		(property "Reference" "C20"
 			(at 176.53 148.5899 0)
 			(effects
 				(font
@@ -18536,7 +18536,7 @@
 		(instances
 			(project "MZ-80B_Extension_Board"
 				(path "/6d6f1a70-a002-4773-a01e-dba5b34c4e8a"
-					(reference "C16")
+					(reference "C20")
 					(unit 1)
 				)
 			)
@@ -18618,7 +18618,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a971bf80-3366-434e-bfd9-c7f855233c2e")
-		(property "Reference" "U2"
+		(property "Reference" "U15"
 			(at 219.71 139.7 0)
 			(effects
 				(font
@@ -18706,7 +18706,7 @@
 		(instances
 			(project "MZ-80B_Extension_Board"
 				(path "/6d6f1a70-a002-4773-a01e-dba5b34c4e8a"
-					(reference "U2")
+					(reference "U15")
 					(unit 1)
 				)
 			)
@@ -18788,7 +18788,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aca25da2-84ad-40ce-bf13-2379286add58")
-		(property "Reference" "U5"
+		(property "Reference" "U13"
 			(at 111.7517 87.63 0)
 			(effects
 				(font
@@ -18876,7 +18876,7 @@
 		(instances
 			(project "MZ-80B_Extension_Board"
 				(path "/6d6f1a70-a002-4773-a01e-dba5b34c4e8a"
-					(reference "U5")
+					(reference "U13")
 					(unit 4)
 				)
 			)
@@ -18962,7 +18962,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b024252d-4869-490f-aa51-9684bb4129a2")
-		(property "Reference" "U6"
+		(property "Reference" "U1"
 			(at 41.5133 27.94 0)
 			(effects
 				(font
@@ -19058,7 +19058,7 @@
 		(instances
 			(project "MZ-80B_Extension_Board"
 				(path "/6d6f1a70-a002-4773-a01e-dba5b34c4e8a"
-					(reference "U6")
+					(reference "U1")
 					(unit 1)
 				)
 			)
@@ -19206,7 +19206,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b4594971-94fc-450b-b960-8e868217c2d0")
-		(property "Reference" "U5"
+		(property "Reference" "U13"
 			(at 195.5883 154.94 0)
 			(effects
 				(font
@@ -19294,7 +19294,7 @@
 		(instances
 			(project "MZ-80B_Extension_Board"
 				(path "/6d6f1a70-a002-4773-a01e-dba5b34c4e8a"
-					(reference "U5")
+					(reference "U13")
 					(unit 1)
 				)
 			)
@@ -19374,7 +19374,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b7e60efd-d54f-4213-9e52-ddc8ea8bc3dd")
-		(property "Reference" "R2"
+		(property "Reference" "R3"
 			(at 184.15 139.7 90)
 			(effects
 				(font
@@ -19426,7 +19426,7 @@
 		(instances
 			(project "MZ-80B_Extension_Board"
 				(path "/6d6f1a70-a002-4773-a01e-dba5b34c4e8a"
-					(reference "R2")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -19442,7 +19442,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b9573149-77f6-42b0-a4f4-73b7f3b6cba7")
-		(property "Reference" "U1"
+		(property "Reference" "U18"
 			(at 308.61 26.6699 0)
 			(effects
 				(font
@@ -19532,7 +19532,7 @@
 		(instances
 			(project "MZ-80B_Extension_Board"
 				(path "/6d6f1a70-a002-4773-a01e-dba5b34c4e8a"
-					(reference "U1")
+					(reference "U18")
 					(unit 5)
 				)
 			)
@@ -19610,7 +19610,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c003f6c7-92b9-4ff5-8496-f8373a2bed3b")
@@ -19684,7 +19684,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c4a20dbb-351d-4a2a-9607-3f5af7b0990a")
-		(property "Reference" "U4"
+		(property "Reference" "U14"
 			(at 370.84 26.6699 0)
 			(effects
 				(font
@@ -19774,7 +19774,7 @@
 		(instances
 			(project "MZ-80B_Extension_Board"
 				(path "/6d6f1a70-a002-4773-a01e-dba5b34c4e8a"
-					(reference "U4")
+					(reference "U14")
 					(unit 7)
 				)
 			)
@@ -19790,7 +19790,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c5e2ce1f-db48-4e98-a23b-aba7e47d069c")
-		(property "Reference" "U5"
+		(property "Reference" "U13"
 			(at 92.7017 166.37 0)
 			(effects
 				(font
@@ -19878,7 +19878,7 @@
 		(instances
 			(project "MZ-80B_Extension_Board"
 				(path "/6d6f1a70-a002-4773-a01e-dba5b34c4e8a"
-					(reference "U5")
+					(reference "U13")
 					(unit 2)
 				)
 			)
@@ -19894,7 +19894,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c70de590-80e8-4e31-8d6d-b0daa64ab984")
-		(property "Reference" "U3"
+		(property "Reference" "U11"
 			(at 350.52 26.6699 0)
 			(effects
 				(font
@@ -19984,7 +19984,7 @@
 		(instances
 			(project "MZ-80B_Extension_Board"
 				(path "/6d6f1a70-a002-4773-a01e-dba5b34c4e8a"
-					(reference "U3")
+					(reference "U11")
 					(unit 3)
 				)
 			)
@@ -20000,7 +20000,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c8b1ab3c-4048-4bba-af62-01985f6f0fb0")
-		(property "Reference" "U14"
+		(property "Reference" "U6"
 			(at 93.5833 234.95 0)
 			(effects
 				(font
@@ -20078,7 +20078,7 @@
 		(instances
 			(project "MZ-80B_Extension_Board"
 				(path "/6d6f1a70-a002-4773-a01e-dba5b34c4e8a"
-					(reference "U14")
+					(reference "U6")
 					(unit 1)
 				)
 			)
@@ -20288,7 +20288,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d1a72c94-1508-43f0-8e80-b8c912969df6")
@@ -20490,7 +20490,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dd5a780d-2426-4ba5-a599-366018fca867")
@@ -20762,7 +20762,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e4b23578-a555-4593-bb48-672bb6b614f7")
-		(property "Reference" "U4"
+		(property "Reference" "U14"
 			(at 144.78 264.16 0)
 			(effects
 				(font
@@ -20850,7 +20850,7 @@
 		(instances
 			(project "MZ-80B_Extension_Board"
 				(path "/6d6f1a70-a002-4773-a01e-dba5b34c4e8a"
-					(reference "U4")
+					(reference "U14")
 					(unit 5)
 				)
 			)
@@ -20930,7 +20930,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e6b9fbba-dc38-42e4-9645-3dd72b19e719")
-		(property "Reference" "U4"
+		(property "Reference" "U14"
 			(at 121.92 204.47 0)
 			(effects
 				(font
@@ -21018,7 +21018,7 @@
 		(instances
 			(project "MZ-80B_Extension_Board"
 				(path "/6d6f1a70-a002-4773-a01e-dba5b34c4e8a"
-					(reference "U4")
+					(reference "U14")
 					(unit 2)
 				)
 			)
@@ -21034,7 +21034,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e8b8e563-54fe-467a-9838-3b50772f7a5f")
-		(property "Reference" "R3"
+		(property "Reference" "R4"
 			(at 99.06 207.01 90)
 			(effects
 				(font
@@ -21086,7 +21086,7 @@
 		(instances
 			(project "MZ-80B_Extension_Board"
 				(path "/6d6f1a70-a002-4773-a01e-dba5b34c4e8a"
-					(reference "R3")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -21102,7 +21102,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e930453f-a39e-4211-8f34-5c332d9588b5")
-		(property "Reference" "U1"
+		(property "Reference" "U18"
 			(at 60.96 181.61 0)
 			(effects
 				(font
@@ -21190,7 +21190,7 @@
 		(instances
 			(project "MZ-80B_Extension_Board"
 				(path "/6d6f1a70-a002-4773-a01e-dba5b34c4e8a"
-					(reference "U1")
+					(reference "U18")
 					(unit 2)
 				)
 			)
@@ -21342,7 +21342,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ebfb95d6-6aec-4199-a4f0-86c5c8277350")
-		(property "Reference" "U4"
+		(property "Reference" "U14"
 			(at 30.48 264.16 0)
 			(effects
 				(font
@@ -21430,7 +21430,7 @@
 		(instances
 			(project "MZ-80B_Extension_Board"
 				(path "/6d6f1a70-a002-4773-a01e-dba5b34c4e8a"
-					(reference "U4")
+					(reference "U14")
 					(unit 6)
 				)
 			)
