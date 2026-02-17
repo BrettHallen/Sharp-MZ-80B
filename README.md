@@ -78,10 +78,10 @@ My 80B came from Japan so expects 100VAC and not the 240VAC we use in Australia.
 | +12V unregulated |         | 9.5V-16.5V for tape deck solenoids |
 
 ### Connectors
-Thanks to [Brad](https://www.youtube.com/@zbradbell) for pointing out the power connectors used are [JST LV-type](/Datasheets/JST_LV_Connectors.pdf).
+Thanks to [Brad](https://www.youtube.com/@zbradbell) for pointing out the power connectors used are very similar to [JST LV-type](/Datasheets/JST_LV_Connectors.pdf).  Brad did further digging and figured out that they are most likely actually TJC1-type.<br>
 
-| Sharp ID      | JST ID | Use                                               |
-|---------------|--------|---------------------------------------------------|
+| Sharp ID      | JST ID       | Use                                         |
+|---------------|--------------|---------------------------------------------|
 | QPLGN0303CEZZ | B3P-LV       | 3-pin terminal for tape deck power on PSU   |
 | DSOCN0083PAZZ |  3P-LV       | 3-pin socket & wires from tape deck to PSU  |
 | QPLGN0103CEZZ | B1P-LV       | 1-pin terminal for monitor power on PSU     |
