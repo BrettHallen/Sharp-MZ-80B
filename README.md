@@ -66,7 +66,18 @@ Design (not mine!) to add SD card interface for the MZ-80B (and others).  It wil
 ## [Combo Graphics RAM + SD Interface](/Sharp_MZ-80GMSD)
 As my MZ-80B doesn't have an expansion unit I thought about trying to add the 8KB Graphics RAM expansion (MZ-80GMK) aka "GRAPHYCS-2" on the same board as the SD interface above.  The SD board itself is still external, but the connection to the MZ-80B motherboard is included with the graphics RAM expansion.
 
-## Power Connectors
+## Power 
+My 80B came from Japan so expects 100VAC and not the 240VAC we use in Australia.
+
+### DC Requirements
+| Voltage          | Current | Use                                |
+|------------------|---------|------------------------------------|
+| +5V regulated    | 2.5A    | motherboard & tape deck            |
+| -5V regulated    | 10mA    | DRAM                               |
+| +12V regulated   | 1.25A   | monitor & tape deck                |
+| +12V unregulated |         | 9.5V-16.5V for tape deck solenoids |
+
+### Connectors
 Thanks to [Brad](https://www.youtube.com/@zbradbell) for pointing out the power connectors used are [JST LV-type](/Datasheets/JST_LV_Connectors.pdf).
 
 | Sharp ID      | JST ID | Use                                               |
