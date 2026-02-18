@@ -78,18 +78,18 @@ My 80B came from Japan so expects 100VAC and not the 240VAC we use in Australia.
 | +12V unregulated |         | 9.5V-16.5V for tape deck solenoids |
 
 ### Connectors
-Thanks to [Brad](https://www.youtube.com/@zbradbell) for pointing out the power connectors used are very similar to [JST LV-type](/Datasheets/JST_LV_Connectors.pdf).  Brad did further digging and figured out that they are most likely actually TJC1-type.<br>
+Thanks to [Brad](https://www.youtube.com/@zbradbell) for figuring out they are TJC1-type.<br>
 
-| Sharp ID      | JST ID       | Use                                         |
+| Sharp ID      | TJC Type     | Use                                         |
 |---------------|--------------|---------------------------------------------|
-| QPLGN0303CEZZ | B3P-LV       | 3-pin terminal for tape deck power on PSU   |
-| DSOCN0083PAZZ |  3P-LV       | 3-pin socket & wires from tape deck to PSU  |
-| QPLGN0103CEZZ | B1P-LV       | 1-pin terminal for monitor power on PSU     |
-| DSOCN0083PAZZ | S1P-LV       | 1-pin socket & wire from monitor to PSU     |
-| DSOCN0098PAZZ |  4P-LV       | 4-pin socket & wire from PSU to motherboard |
-| QPLGN0403CEZZ | B4P-LV       | 4-pin terminal on motherboard               |
-| QPLGN0303CEZZ | B3P-LV       | 3-pin terminal for Expansion Unit power     |
-|               | SVF-01T-2.36 | Contact type for sockets                    |
+| QPLGN0303CEZZ | TJC1-3A      | 3-pin terminal for tape deck power on PSU   |
+| DSOCN0083PAZZ | TJC1-3Y      | 3-pin socket & wires from tape deck to PSU  |
+| QPLGN0103CEZZ | TJC1-1A      | 1-pin terminal for monitor power on PSU     |
+| DSOCN0083PAZZ | TJC1-1Y      | 1-pin socket & wire from monitor to PSU     |
+| DSOCN0098PAZZ | TJC1-4Y      | 4-pin socket & wire from PSU to motherboard |
+| QPLGN0403CEZZ | TJC1-4A      | 4-pin terminal on motherboard               |
+| QPLGN0303CEZZ | TJC1-3A      | 3-pin terminal for Expansion Unit power     |
+|               | TJC1-T       | Contact type for sockets                    |
 
 - [QPLGN0303CEZZ](/Images/Sharp_MZ-80B_QPLGN0303CEZZ_1.jpg)
 - [DSOCN0098PAZZ](/Images/Sharp_MZ-80B_DSOCN0098PAZZ_1.png)
