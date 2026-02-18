@@ -65,3 +65,33 @@ Design (not mine!) to add SD card interface for the MZ-80B (and others).  It wil
 
 ## [Combo Graphics RAM + SD Interface](/Sharp_MZ-80GMSD)
 As my MZ-80B doesn't have an expansion unit I thought about trying to add the 8KB Graphics RAM expansion (MZ-80GMK) aka "GRAPHYCS-2" on the same board as the SD interface above.  The SD board itself is still external, but the connection to the MZ-80B motherboard is included with the graphics RAM expansion.
+
+## Power 
+My 80B came from Japan so expects 100VAC and not the 240VAC we use in Australia.
+
+### DC Requirements
+| Voltage          | Current | Use                                |
+|------------------|---------|------------------------------------|
+| +5V regulated    | 2.5A    | motherboard & tape deck            |
+| -5V regulated    | 10mA    | DRAM                               |
+| +12V regulated   | 1.25A   | monitor & tape deck                |
+| +12V unregulated |         | 9.5V-16.5V for tape deck solenoids |
+
+### Connectors
+Thanks to [Brad](https://www.youtube.com/@zbradbell) for figuring out they are TJC1-type.<br>
+
+| Sharp ID      | TJC Type     | Use                                         |
+|---------------|--------------|---------------------------------------------|
+| QPLGN0303CEZZ | TJC1-3A      | 3-pin terminal for tape deck power on PSU   |
+| DSOCN0083PAZZ | TJC1-3Y      | 3-pin socket & wires from tape deck to PSU  |
+| QPLGN0103CEZZ | TJC1-1A      | 1-pin terminal for monitor power on PSU     |
+| DSOCN0083PAZZ | TJC1-1Y      | 1-pin socket & wire from monitor to PSU     |
+| DSOCN0098PAZZ | TJC1-4Y      | 4-pin socket & wire from PSU to motherboard |
+| QPLGN0403CEZZ | TJC1-4A      | 4-pin terminal on motherboard               |
+| QPLGN0303CEZZ | TJC1-3A      | 3-pin terminal for Expansion Unit power     |
+|               | TJC1-T       | Contact type for sockets                    |
+
+- [QPLGN0303CEZZ](/Images/Sharp_MZ-80B_QPLGN0303CEZZ_1.jpg)
+- [DSOCN0098PAZZ](/Images/Sharp_MZ-80B_DSOCN0098PAZZ_1.png)
+
+
