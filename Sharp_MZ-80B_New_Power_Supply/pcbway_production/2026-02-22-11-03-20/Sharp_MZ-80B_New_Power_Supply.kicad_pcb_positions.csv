@@ -1,0 +1,16 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+140.5,-92.012755,90.0,top,C1,,,CP_Radial_D16.0mm_P7.50mm,1000µF,tht
+153.0,-90.25,90.0,top,C2,,,C_Disc_D3.8mm_W2.6mm_P2.50mm,100nF,tht
+190.0,-65.0,0.0,top,C3,,,CP_Radial_D7.5mm_P2.50mm,100µF,tht
+190.0,-54.0,0.0,top,C4,,,C_Disc_D3.8mm_W2.6mm_P2.50mm,100nF,tht
+126.0,-133.0,180.0,top,C5,,,CP_Radial_D7.5mm_P2.50mm,100µF,tht
+123.5,-143.0,-90.0,top,C6,,,C_Disc_D3.8mm_W2.6mm_P2.50mm,100nF,tht
+189.838606,-127.0,0.0,top,C7,,,CP_Radial_D7.5mm_P2.50mm,100µF,tht
+190.0,-114.0,0.0,top,C8,,,C_Disc_D3.8mm_W2.6mm_P2.50mm,100nF,tht
+117.0,-89.0,0.0,top,J1,,,TJC1-1A,To Tape Solenoid,tht
+92.5,-84.0,-90.0,top,J2,,,TJC1-2A,DC In,tht
+200.0,-143.0,180.0,top,J3,,,TJC1-4A,To Motherboard,tht
+176.0,-91.5,0.0,top,J4,,,TJC1-3A,To Tape Deck,tht
+160.7,-67.45,180.0,top,U1,,,TO-3,PSU6,tht
+157.1,-114.55,0.0,top,U2,,,TO-3,PSU5,tht
+120.96,-121.45,0.0,top,U3,,,TO-220-3_Vertical,R-78CK5.0-0.5,tht
