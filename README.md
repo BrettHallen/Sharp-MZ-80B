@@ -109,4 +109,8 @@ Some notes:
 
 ![New DC power supply](/Sharp_MZ-80B_New_Power_Supply/Sharp_MZ-80B_New_Power_Supply.kicad_pro_3D.png)
 
+## [External Audio/Video Output](/Sharp_MZ-CVBS)
+A re-design of an [existing design](https://github.com/gamo256/MZ_CVBS) for replacing the CRT with an LCD, I think.  The original design uses obsolete parts (well, hard to get in Australia) so I've tried to re-design.  Let's see if it works ...<br>
+
+![3D image](/Sharp_MZ-CVBS/Sharp_MZ-80CVBS_3D.png)
 
