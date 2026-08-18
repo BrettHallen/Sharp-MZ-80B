@@ -1,0 +1,34 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+118.745,-107.22,90.0,top,C1,,,CP_Radial_D10.0mm_P5.00mm,470µF,tht
+93.385,-119.19,0.0,top,C10,,,C_Disc_D3.8mm_W2.6mm_P2.50mm,330nF,tht
+100.965,-125.54,180.0,top,C11,,,CP_Radial_D5.0mm_P2.50mm,10µF,tht
+100.925,-119.19,180.0,top,C12,,,C_Disc_D3.8mm_W2.6mm_P2.50mm,100nF,tht
+125.73,-123.635,90.0,top,C13,,,C_Disc_D3.8mm_W2.6mm_P2.50mm,100nF,tht
+127.0,-111.07,-90.0,top,C2,,,CP_Radial_D5.0mm_P2.50mm,10µF,tht
+127.635,-105.93,90.0,top,C3,,,C_Disc_D3.8mm_W2.6mm_P2.50mm,100nF,tht
+130.175,-96.425,180.0,top,C4,,,CP_Radial_D5.0mm_P2.50mm,10µF,tht
+149.86,-104.68,0.0,top,C5,,,CP_Radial_D10.0mm_P5.00mm,470µF,tht
+134.025,-96.425,0.0,top,C6,,,C_Disc_D3.8mm_W2.6mm_P2.50mm,1nF,tht
+141.625,-111.665,0.0,top,C7,,,C_Disc_D3.8mm_W2.6mm_P2.50mm,47nF,tht
+140.335,-96.425,0.0,top,C8,,,CP_Radial_D5.0mm_P2.50mm,10µF,tht
+153.67,-117.38,0.0,top,C9,,,C_Disc_D3.8mm_W2.6mm_P2.50mm,100nF,tht
+94.615,-130.12,0.0,top,H1,,,MountingHole_3.2mm_M3_Pad,MountingHole_Pad,tht
+94.615,-91.12,0.0,top,H2,,,MountingHole_3.2mm_M3_Pad,MountingHole_Pad,tht
+159.615,-91.12,0.0,top,H3,,,MountingHole_3.2mm_M3_Pad,MountingHole_Pad,tht
+159.615,-130.12,0.0,top,H4,,,MountingHole_3.2mm_M3_Pad,MountingHole_Pad,tht
+122.555,-96.425,-90.0,top,J1,,,PinHeader_1x03_P2.54mm_Vertical,VOLUME,tht
+161.29,-103.41,0.0,top,J2,,,PinHeader_1x02_P2.54mm_Vertical,AUDIO OUT,tht
+109.22,-99.505,0.0,top,J3,,,PinHeader_1x06_P2.54mm_Vertical,INPUT,tht
+160.655,-123.73,180.0,top,J4,,,PinHeader_1x02_P2.54mm_Vertical,VIDEO OUT,tht
+144.145,-123.095,90.0,top,Q1,,,TO-92_HandSolder,2N3904,tht
+131.445,-111.665,0.0,top,R1,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,10Ω,tht
+142.875,-108.49,90.0,top,R2,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,39Ω,tht
+131.445,-120.46,0.0,top,R3,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,240Ω,tht
+131.445,-126.905,0.0,top,R4,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,330Ω,tht
+148.59,-123.73,0.0,top,R5,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,75Ω,tht
+131.445,-123.635,0.0,top,R6,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,270Ω,tht
+131.445,-117.38,0.0,top,R7,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,680Ω,tht
+156.21,-120.555,180.0,top,R8,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,470Ω,tht
+121.92,-118.65,-90.0,top,U1,,,DIP-14_W7.62mm,74LS07,tht
+139.065,-100.87,-90.0,top,U2,,,DIP-8_W7.62mm,LM386N-4,tht
+94.615,-115.72,0.0,top,U3,,,TO-220-3_Horizontal_TabDown,LM7805,tht
